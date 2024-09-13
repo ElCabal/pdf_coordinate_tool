@@ -4,7 +4,7 @@ from PyQt5.QtGui import QPixmap, QImage, QPainter, QColor, QPen, QCursor
 from PyQt5.QtCore import Qt, QRect
 import fitz  # PyMuPDF
 
-class PDFCoordinateTool(QMainWindow):
+class PDFCoordinateTool(QMainWindow): 
     def __init__(self):
         super().__init__()
         self.initUI()
