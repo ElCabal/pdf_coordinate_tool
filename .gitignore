@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+#  Typically these files are written by a Python application to cache results
+#  of installation or import of packages.
+dist/
+build/
+*.spec
+
+# Virtual environments
+env/
+venv/
+pdf_coordinate_tool/
